@@ -39,7 +39,7 @@ Initialize the NameObj with no BCSV entry. It will construct a JMapInfoIter refe
 
 .. cpp:function:: void setName(const char *pName)
 
-    :param const char* &pName: The name of the NameObj.
+    :param const char* pName: The name of the NameObj.
 
 Assigns the parameter to :cpp:member:`NameObj::mName`.
 
