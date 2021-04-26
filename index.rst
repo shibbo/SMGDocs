@@ -7,10 +7,10 @@ Welcome to Super Mario Galaxy Documentation!
 ============================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-
+   /game/NameObj/NameObj.rst
 
 Indices and tables
 ==================
